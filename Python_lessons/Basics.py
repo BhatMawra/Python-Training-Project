@@ -1,13 +1,4 @@
-# """
-# my operators   x**6
-# """
-# # x=10
-# # print(x**3)
 
-
-
-
-#//how to code a game?
 # from turtle import Turtle, Screen
 # import random
 # import time

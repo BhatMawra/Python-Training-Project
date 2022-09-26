@@ -1,0 +1,10 @@
+https://www.geeksforgeeks.org/python-sys-module/#:~:text=The%20sys%20module%20in%20Python,interact%20strongly%20with%20the%20interpreter.
+
+https://www.w3schools.com/python/python_lambda.asp
+
+
+1) write iterative and recursive fibonacci : print nth fibonacci num
+
+2) roll dice - game
+
+3) head or tail - game
