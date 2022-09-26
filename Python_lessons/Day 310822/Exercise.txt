@@ -1,1 +1,18 @@
 https://www.geeksforgeeks.org/difference-between-python-and-c/
+
+https://www.w3schools.com/python/python_datatypes.asp
+
+https://www.w3schools.com/python/python_functions.asp
+
+Write a program which takes one input and return factorial of that number.
+
+
+
+def add(n1,n2):
+    print("sum is ", n1+n2)
+
+n1 = int(input("please enter 1st number "))
+n2 = int(input("please enter 2nd number "))
+
+
+add(n1,n2)
